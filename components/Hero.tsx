@@ -34,7 +34,7 @@ export default function Hero() {
           
           <div className="flex flex-col sm:flex-row gap-4">
             <Link 
-              href="/contact" 
+              href="#quote" 
               className="inline-flex items-center justify-center gap-2 bg-white text-blue-900 font-bold text-lg px-8 py-4 rounded-lg hover:bg-blue-50 transition-colors shadow-lg shadow-blue-900/20"
             >
               Get Free Quote <ArrowRight className="h-5 w-5" />

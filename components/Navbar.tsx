@@ -18,7 +18,7 @@ export default function Navbar() {
             <Link href="/#about" className="text-slate-600 hover:text-blue-600 font-medium">About</Link>
             <Link href="/#faq" className="text-slate-600 hover:text-blue-600 font-medium">FAQ</Link>
             <Link 
-              href="/contact" 
+              href="/#quote" 
               className="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-md font-semibold transition-colors"
             >
               Get Free Quote
@@ -26,7 +26,7 @@ export default function Navbar() {
           </div>
           <div className="md:hidden flex items-center">
              <Link 
-              href="/contact" 
+              href="/#quote" 
               className="bg-blue-600 hover:bg-blue-700 text-white px-3 py-2 rounded-md font-semibold text-sm"
             >
               Get Quote

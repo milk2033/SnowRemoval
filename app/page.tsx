@@ -2,6 +2,7 @@ import Hero from "@/components/Hero";
 import Services from "@/components/Services";
 import Testimonials from "@/components/Testimonials";
 import FAQ from "@/components/FAQ";
+import ContactForm from "@/components/ContactForm";
 import Link from "next/link";
 import { ArrowRight } from "lucide-react";
 
@@ -53,6 +54,20 @@ export default function Home() {
       </section>
 
       <Testimonials />
+
+      {/* Inline Contact Section */}
+      <section id="quote" className="py-20 bg-slate-50">
+        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-12">
+            <h2 className="text-3xl md:text-4xl font-bold text-slate-900 mb-4">Get Your Free Quote</h2>
+            <p className="text-lg text-slate-600">
+              Fill out the form below and we'll get back to you with a custom estimate for your property.
+            </p>
+          </div>
+          <ContactForm />
+        </div>
+      </section>
+
       <FAQ />
 
       {/* CTA Section */}
@@ -63,7 +78,7 @@ export default function Home() {
             Secure your spot on our route today and enjoy a worry-free winter. Spots fill up fast!
           </p>
           <Link 
-            href="/contact" 
+            href="#quote" 
             className="inline-block bg-white text-blue-900 font-bold text-lg px-8 py-4 rounded-lg hover:bg-blue-50 transition-colors shadow-lg"
           >
             Get Your Free Quote Now
