@@ -22,7 +22,7 @@ export default function Home() {
                    {/* Image */}
                    <img 
                      src="/snowPlow2.jpg" 
-                     alt="Green Bay Snow Pros team clearing a driveway" 
+                     alt="Snow plow clearing driveway in Green Bay WI" 
                      className="aspect-video w-full object-cover rounded-lg shadow-md mb-6"
                    />
                    <p className="text-blue-900 font-medium italic">

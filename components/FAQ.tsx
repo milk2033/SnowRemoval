@@ -16,6 +16,10 @@ const faqs = [
   {
     question: "Do you shovel walkways and sidewalks?",
     answer: "Yes, we provide full service including shoveling and salting walkways, stairs, and entryways to ensure safe access."
+  },
+  {
+    question: "How can I prevent ice dams in Green Bay winters?",
+    answer: "Proper insulation and attic ventilation are key. However, if you already have them, we offer roof raking services to remove snow load before it melts and refreezes at the eaves."
   }
 ];
 
