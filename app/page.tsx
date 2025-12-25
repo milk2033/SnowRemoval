@@ -19,10 +19,12 @@ export default function Home() {
               <div className="bg-blue-100 rounded-2xl p-8 md:p-12 relative overflow-hidden">
                 <div className="absolute top-0 right-0 -mr-16 -mt-16 w-64 h-64 bg-blue-200 rounded-full opacity-50 blur-3xl"></div>
                 <div className="relative z-10">
-                   {/* Placeholder for an image */}
-                   <div className="aspect-video bg-blue-200/50 rounded-lg flex items-center justify-center text-blue-800 font-bold mb-6">
-                     Local Team at Work
-                   </div>
+                   {/* Image */}
+                   <img 
+                     src="/snowPlow2.jpg" 
+                     alt="Green Bay Snow Pros team clearing a driveway" 
+                     className="aspect-video w-full object-cover rounded-lg shadow-md mb-6"
+                   />
                    <p className="text-blue-900 font-medium italic">
                      "We treat every driveway like it's our own."
                    </p>

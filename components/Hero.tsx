@@ -14,7 +14,7 @@ export default function Hero() {
 
   return (
     <section className="relative bg-gradient-to-br from-blue-900 to-blue-700 text-white py-20 lg:py-32 overflow-hidden">
-      <div className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1547531455-c205bc1b5443?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80')] bg-cover bg-center opacity-10 mix-blend-overlay"></div>
+      <div className="absolute inset-0 bg-[url('/snowPlow.jpg')] bg-cover bg-center opacity-20 mix-blend-overlay"></div>
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
         <div className="max-w-3xl">
           <div className="inline-flex items-center gap-2 bg-blue-800/50 border border-blue-500/30 rounded-full px-4 py-1.5 mb-6 text-blue-100 text-sm font-medium backdrop-blur-sm">
