@@ -7,10 +7,11 @@
     - `app/contact/page.tsx`
     - `components/JsonLd.tsx` (Schema)
 - [ ] **Google Analytics (GA4):** Add Measurement ID to `app/layout.tsx`.
-- [ ] **Vercel Deployment:** Set `EMAIL_USER` and `EMAIL_PASS` in Vercel settings.
+- [x] **Vercel Deployment:** Set `EMAIL_USER` and `EMAIL_PASS` in Vercel settings.
+- [x] **Google Voice Forwarding:** Set up in Google Voice settings to real phone.
 
 ## 2. SEO & Content (Post-Launch)
-- [ ] **Blog/Resources Section:** Create `/blog` and add 3 posts:
+- [ ] **Blog/Resources Section:** Create `/blog` and add 3 posts (Deferred until after GBP verification):
     - *Winter Snow Plowing Tips for Northeast Wisconsin Homeowners*
     - *How to Choose a Snow Removal Service in Door County*
     - *Emergency Snow Removal: What to Expect in Oshkosh*
