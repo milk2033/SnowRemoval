@@ -75,7 +75,7 @@ export default function JsonLd() {
       ]
     },
     "url": "https://snowremoval-greenbay.com",
-    "telephone": "+19205550123",
+    "telephone": "+19203285031",
     "openingHoursSpecification": [
       {
         "@type": "OpeningHoursSpecification",

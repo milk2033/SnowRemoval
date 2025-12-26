@@ -120,7 +120,7 @@ export default function ContactForm() {
               id="phone"
               type="tel"
               className={`w-full px-4 py-2 border rounded-md outline-none transition-all text-slate-900 ${errors.phone ? 'border-red-300 focus:ring-red-200' : 'border-slate-300 focus:ring-2 focus:ring-blue-500/20 focus:border-blue-500'}`}
-              placeholder="(920) 555-0123"
+              placeholder="(920) 328-5031"
             />
             {errors.phone && <p className="text-red-500 text-xs mt-1 font-medium">{errors.phone.message}</p>}
           </div>

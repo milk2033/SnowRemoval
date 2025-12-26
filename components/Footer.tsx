@@ -25,7 +25,7 @@ export default function Footer() {
           <div>
             <h3 className="text-white text-lg font-bold mb-4">Contact</h3>
             <ul className="space-y-2 text-sm">
-              <li>Phone: (920) 555-0123</li>
+              <li>Phone: (920) 328-5031</li>
               <li>Email: gbsnowremoval836@gmail.com</li>
               <li>Hours: 24/7 Emergency Service</li>
             </ul>

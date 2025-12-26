@@ -32,7 +32,7 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <p className="text-sm font-medium text-slate-500">Phone</p>
-                    <p className="text-slate-900 font-semibold">(920) 555-0123</p>
+                    <p className="text-slate-900 font-semibold">(920) 328-5031</p>
                     <p className="text-xs text-slate-400 mt-1">Mon-Fri 8am-6pm (24/7 Emergency)</p>
                   </div>
                 </div>
@@ -68,7 +68,7 @@ export default function ContactPage() {
                 During severe winter storms, our phone lines stay open 24/7 for emergency plow requests.
               </p>
               <div className="font-bold text-lg">
-                Call (920) 555-0123
+                Call (920) 328-5031
               </div>
             </div>
           </div>
