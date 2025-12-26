@@ -33,7 +33,7 @@ export default function Home() {
               </div>
             </div>
             <div className="flex-1 space-y-6">
-              <h2 className="text-3xl font-bold text-slate-900">Your Trusted Local Snow Removal Experts</h2>
+              <h2 className="text-3xl font-bold text-slate-900">Your Trusted Northeast Wisconsin Snow Removal Experts</h2>
               <p className="text-lg text-slate-600">
                 Green Bay Snow Pros was founded with a simple mission: to provide reliable, timely, and professional snow removal services to our neighbors in Northeast Wisconsin.
               </p>

@@ -3,7 +3,7 @@ import { Plus } from 'lucide-react';
 const faqs = [
   {
     question: "Do you offer seasonal contracts or per-time pricing?",
-    answer: "We offer both! You can sign up for a seasonal contract to ensure priority service all winter in Green Bay and Appleton, or pay per-visit for occasional needs."
+    answer: "We offer both! You can sign up for a seasonal contract to ensure priority service all winter in Northeast Wisconsin, or pay per-visit for occasional needs."
   },
   {
     question: "What areas do you service?",
@@ -18,7 +18,7 @@ const faqs = [
     answer: "Yes, we provide full service including shoveling and salting walkways, stairs, and entryways to ensure safe access."
   },
   {
-    question: "How can I prevent ice dams in Green Bay winters?",
+    question: "How can I prevent ice dams in Northeast Wisconsin winters?",
     answer: "Proper insulation and attic ventilation are key. However, if you already have them, we offer roof raking services to remove snow load before it melts and refreezes at the eaves."
   }
 ];

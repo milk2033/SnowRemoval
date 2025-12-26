@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   metadataBase: new URL('https://snowremoval-greenbay.com'),
   title: "Snow Removal & Plowing Services in Green Bay, Appleton & NE Wisconsin",
   description: "Reliable snow plowing and removal services in Green Bay, Appleton, Oshkosh, and Door County. 24/7 emergency driveway clearing, roof snow removal, and ice dam prevention.",
-  keywords: "Snow removal Green Bay, Snow plowing Appleton, Ice dam removal Door County, Driveway clearing Oshkosh, Emergency snow plow service WI, Roof snow removal Green Bay, Commercial snow removal Fox Valley",
+  keywords: "Snow removal Northeast Wisconsin, Snow removal Green Bay, Snow plowing Appleton, Ice dam removal Door County, Driveway clearing Oshkosh, Emergency snow plow service WI, Roof snow removal Green Bay, Commercial snow removal Fox Valley",
   openGraph: {
     title: "Snow Removal Green Bay | Fast & Reliable Plowing",
     description: "Don't get stuck in the snow. Professional 24/7 plowing, salting, and ice dam removal for Green Bay, Appleton, and Northeast WI.",

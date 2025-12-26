@@ -3,7 +3,7 @@ import { Truck, Home, Shovel, ThermometerSnowflake, ShieldAlert, Clock } from 'l
 const services = [
   {
     title: "Residential Plowing",
-    description: "Keep your Green Bay driveway clear and accessible all winter. We offer seasonal contracts and per-push rates for homeowners.",
+    description: "Keep your Northeast Wisconsin driveway clear and accessible all winter. We offer seasonal contracts and per-push rates for homeowners.",
     icon: Home,
   },
   {
@@ -67,7 +67,7 @@ export default function Services() {
             Request a Free Service Quote
           </a>
           <p className="mt-4 text-sm text-slate-500">
-            No obligation. Fast response for all Green Bay area inquiries.
+            No obligation. Fast response for all Northeast Wisconsin inquiries.
           </p>
         </div>
       </div>

@@ -4,7 +4,7 @@ export default function JsonLd() {
     "@type": "SnowRemoval",
     "name": "Green Bay Snow Pros",
     "image": "https://snowremoval-greenbay.com/logo.png",
-    "description": "Professional snow removal, plowing, and ice dam removal services in Green Bay, Appleton, Oshkosh, and Door County, WI.",
+    "description": "Northeast Wisconsin's professional snow removal, plowing, and ice dam removal services serving Green Bay, Appleton, Oshkosh, and Door County, WI.",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "123 Winter Ave",
