@@ -15,6 +15,7 @@
     - *Winter Snow Plowing Tips for Northeast Wisconsin Homeowners*
     - *How to Choose a Snow Removal Service in Door County*
     - *Emergency Snow Removal: What to Expect in Oshkosh*
+- [ ] **Programmatic SEO (Long Tail):** Generate dynamic pages for specific suburbs (e.g., `/locations/ashwaubenon`, `/locations/howard`) to capture hyper-local search traffic ("Driveway plowing Ashwaubenon").
 - [ ] **Refine Schema:** Double-check `components/JsonLd.tsx` matches GBP details exactly once live.
 
 ## 3. Performance & Quality Assurance
